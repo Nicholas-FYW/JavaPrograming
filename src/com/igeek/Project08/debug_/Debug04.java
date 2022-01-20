@@ -17,6 +17,7 @@ public class Debug04 {
         System.out.println("Hellon500");
         System.out.println("Hellon600");
         System.out.println("master");
+        System.out.println("dev");
 
     }
 }
