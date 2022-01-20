@@ -14,8 +14,8 @@ public class Debug04 {
         System.out.println("Hellon200");
         System.out.println("Hellon300");
         System.out.println("Hellon400");
-
-
+        System.out.println("Hellon500");
+        System.out.println("Hellon600");
 
     }
 }
